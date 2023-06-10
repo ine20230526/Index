@@ -1,7 +1,9 @@
 # Header
 menu:
-  Home: /
-  Archives: /archives
+  主页: /
+  存档: /archives
+  加速下载隧道: https://1.ghproxy.top/
+  
 rss: /atom.xml
 
 # Content
