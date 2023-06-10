@@ -3,7 +3,7 @@ name: Hexo Delopy
 on:
   push:
     branches:
-      - master
+      - main
   workflow_dispatch:
 
 jobs:
